@@ -1,0 +1,169 @@
+
+[2025-02-10T08:37:57.409487144+00:00] ---------------------   Copy-trading-bot start!!!  ------------------
+
+[2025-02-10T08:38:55.826936184+00:00] 
+Target Wallet: 4qjhHtM44cWL6okXcC2PrqKQYkgKxMevSZQHsbt9aq2P  https://solscan.io/tx/esiXJ3gV4WZie7nhHVLdT5iwW8MAgxr5ywsTwB9TD1ZJwK1f2gUi9iFH8e8HrvbFQsoEutHiFRCkdHnUiFjNPaM
+[2025-02-10T08:38:57.653542901+00:00] Copy Wallet: C48dQJokWVvnLZroQix47AvKG5T1U88iGc115fXFEAzs  https://solscan.io/tx/R227y9tiChBxY4dfVXcAs3aeVzMMpVNCPrvak6cZ8Fci9VFC6xwwNz2pQbXTKVyfFRvLT8oQ9pJz6NR53Zdyms7
+Rusult: Success
+
+
+
+[2025-02-10T08:45:57.371492763+00:00] ---------------------   Copy-trading-bot start!!!  ------------------
+
+[2025-02-10T08:46:21.916862902+00:00] 
+Target Wallet: 4qjhHtM44cWL6okXcC2PrqKQYkgKxMevSZQHsbt9aq2P  https://solscan.io/tx/3qa4g857YN22tJQ1P7iVVZEkhCBpyKzmcZ3gLcJD4fRke8zRmpLSitMgMmkh4Ga3QspUgC7NsMCbLZkSMpFG3kAo
+[2025-02-10T08:46:24.991017282+00:00] Copy Wallet: C48dQJokWVvnLZroQix47AvKG5T1U88iGc115fXFEAzs  https://solscan.io/tx/4bJHyTJrSfnnsqEyMheJCXfWBJPGZfjEDszcKtSqA6a97Dn8RwvMSNqkF4X36GWD3a8TMX9bnepyoFAK5iD9bS9a
+Rusult: Success
+
+[2025-02-10T08:46:54.104876102+00:00] 
+Target Wallet: 4qjhHtM44cWL6okXcC2PrqKQYkgKxMevSZQHsbt9aq2P  https://solscan.io/tx/4hp7TkucGtKd6xZmFXUyu11chez57p6LwnJgT1QbptZfRS6oPnMqJ8oojQ6tyonB9SJ4QJWJNS8n3XZLeCp2j1Hf
+[2025-02-10T08:46:55.948107041+00:00] Copy Wallet: C48dQJokWVvnLZroQix47AvKG5T1U88iGc115fXFEAzs  https://solscan.io/tx/66ThSAJsyMU2NNsYxFJoeehYzXSUxXt8MRMVcsfPF3D6QrrsnUzHr37ht1MQQU1NYsaD5AKWozGcF5LhubyjtduY
+Rusult: Success
+
+[2025-02-10T08:47:42.616368108+00:00] 
+Target Wallet: 4qjhHtM44cWL6okXcC2PrqKQYkgKxMevSZQHsbt9aq2P  https://solscan.io/tx/66VXBvP7QYynbDsAHzaGCowSJdSx2BTqXfNadKxdmhcdjwPGzjYGmPQxUpEcbFxg5Q363k5so3RaQevfXDg8noyF
+[2025-02-10T08:47:44.635125678+00:00] Copy Wallet: C48dQJokWVvnLZroQix47AvKG5T1U88iGc115fXFEAzs  https://solscan.io/tx/5SeQQSYxAiLrNEtMJk2wKPMdyk2ULPZ5kq3bwQr63EE9Jp71mxRCnCjsH1hs6rF74whcnyaodCBKNQe5NyMaBrGU
+Rusult: Success
+
+[2025-02-10T08:49:22.840843871+00:00] 
+Target Wallet: 4qjhHtM44cWL6okXcC2PrqKQYkgKxMevSZQHsbt9aq2P  https://solscan.io/tx/4cjbrxkfRstmLypsiyocrPVmE2KeL2xSoMNiatFjyg9JDvW2UR75qL7HH8pGwWoNyWWB3gNcAAu6mJTk9pii9QRq
+[2025-02-10T08:49:25.845951025+00:00] Copy Wallet: C48dQJokWVvnLZroQix47AvKG5T1U88iGc115fXFEAzs  https://solscan.io/tx/4PP58EXPs7qqZTByKrtrGCNNtUV4XwXSjTEDh7on1yR4mgryWqx7NkuYgh8JFRGFWba9Umjv2u3jazNtoi8GBxAi
+Rusult: Success
+
+[2025-02-10T08:54:28.188323992+00:00] ---------------------   Copy-trading-bot start!!!  ------------------
+
+[2025-02-10T08:56:52.983624404+00:00] 
+Target Wallet: 4qjhHtM44cWL6okXcC2PrqKQYkgKxMevSZQHsbt9aq2P  https://solscan.io/tx/3wHnM4R1EiReBeJgbc6p1omo7upbrYmTcMkqNat92sJLxH8zGKms26kPgCToHHFVoeeYvxHySRtXLv2tSEYVsJXh
+[2025-02-10T08:56:54.815442921+00:00] Copy Wallet: C48dQJokWVvnLZroQix47AvKG5T1U88iGc115fXFEAzs  https://solscan.io/tx/3XB6rFErVSBbpQL98R6vxWErtVdTecYKoVMBMQYKszJL2YAnDqFNH7HFLMzD77C2wxqt6XBQUwEnbrT6e2j9HRW
+Rusult: Success
+
+[2025-02-10T08:57:57.866486303+00:00] 
+Target Wallet: 4qjhHtM44cWL6okXcC2PrqKQYkgKxMevSZQHsbt9aq2P  https://solscan.io/tx/2wNr9phuHovEuQmEgDgid3menACxm2AhXmM1v9LFunat1X9pQzN4371DCbHUxvhXmdQwx84pxePE2VqeBxoThLJb
+[2025-02-10T08:58:00.913166240+00:00] Copy Wallet: C48dQJokWVvnLZroQix47AvKG5T1U88iGc115fXFEAzs  https://solscan.io/tx/4DAk3CSfJP6VWCD3nQ3dk1gWicEG8y2z7TFTUrMbh9AutmQDGVh8nsRzqfS9c9XZnHGGCioRdWN2cPZ2U53xEk8m
+Rusult: Success
+
+[2025-02-10T09:38:52.071530920+00:00] ---------------------   Copy-trading-bot start!!!  ------------------
+
+[2025-02-10T09:40:23.930881075+00:00] 
+Target Wallet: 4qjhHtM44cWL6okXcC2PrqKQYkgKxMevSZQHsbt9aq2P  https://solscan.io/tx/3v1VhXqovgeWWLP5Vhng87g2c19z3JU52dz8MKRTDkBnuy3ropb2kG1UqZuYjcn7wCXDHrjis91KqsnqmNHLD2jB
+[2025-02-10T09:40:25.844833638+00:00] Copy Wallet: C48dQJokWVvnLZroQix47AvKG5T1U88iGc115fXFEAzs  https://solscan.io/tx/2qJwnkrhYjvhk23T3v1J4tPamTdBsnpSyeBFeueJ3rJNuXwoUuADvLTjpq744jRFbJAeeJWEKbEQ8YrRYgWfmgbw
+Rusult: Success
+
+[2025-02-10T09:55:38.168343496+00:00] ---------------------   Copy-trading-bot start!!!  ------------------
+
+[2025-02-10T09:55:57.202100605+00:00] 
+Target Wallet: 4qjhHtM44cWL6okXcC2PrqKQYkgKxMevSZQHsbt9aq2P  https://solscan.io/tx/4Smq71tnKxW9KVacUuFnhQip87AQV9H7TfTAXVoBuo5nqgoUzvqBgyyfErvMy7RKYXpG56M3oZYUy3gQZWRC4BrW
+[2025-02-10T09:56:00.087834088+00:00] Copy Wallet: C48dQJokWVvnLZroQix47AvKG5T1U88iGc115fXFEAzs  https://solscan.io/tx/2JhNhk4YYr2BXLBR5vMpSrzx9m9VS6skTogdoHXYVDihf7E4Ft5jUfeyLHLJMFxCTVTTMg1v6cgAqn4iSrDJ8ZEh
+Rusult: Success
+
+[2025-02-10T09:56:46.719928076+00:00] 
+Target Wallet: 4qjhHtM44cWL6okXcC2PrqKQYkgKxMevSZQHsbt9aq2P  https://solscan.io/tx/5w1aFg6sivz35zVQVwCsNtvoNxPFRbcP5TbqwLmcYwMLgrWXqjNnPYnH6JYF1jqjdn3zAS9DdCLRag85dojx3HUf
+[2025-02-10T09:56:49.593760847+00:00] Copy Wallet: C48dQJokWVvnLZroQix47AvKG5T1U88iGc115fXFEAzs  https://solscan.io/tx/3ZxrgFLRsCV9Sfyvncz8ncBZFE61Ur7fCgEcsUnn5Wxwd3YKXas2teiQDfANpsMqMWdkbtqunUE7tgFJmp5ch7Lu
+Rusult: Success
+
+[2025-02-10T09:58:05.083389943+00:00] 
+Target Wallet: 4qjhHtM44cWL6okXcC2PrqKQYkgKxMevSZQHsbt9aq2P  https://solscan.io/tx/xpbE6Kvoz8anF1YV35XGSxRYmf8aoHzE6L8J5LK7WRuHR37eUeSqjD6P7xL5DveV8kkrpf2n7niMHa5ccH2Vqxg
+[2025-02-10T09:58:07.994566999+00:00] Copy Wallet: C48dQJokWVvnLZroQix47AvKG5T1U88iGc115fXFEAzs  https://solscan.io/tx/39QBCeu3zzfQGrdWr44cPjfUg5vDXiaoPCPqzyK6mqjogu9CdkPcDzhdvM9X4hm4giyvG4ZzbCNFQXPfpWxVCKNc
+Rusult: Success
+
+[2025-02-10T10:17:22.468464853+00:00] ---------------------   Copy-trading-bot start!!!  ------------------
+
+[2025-02-10T11:18:10.614776621+00:00] ---------------------   Copy-trading-bot start!!!  ------------------
+
+[2025-02-10T11:20:50.558764119+00:00] 
+Target Wallet: 4qjhHtM44cWL6okXcC2PrqKQYkgKxMevSZQHsbt9aq2P  https://solscan.io/tx/2asgg1tYF9yY2fxzWZwNNjdZgWCAdHarBaqRWDCTDMJEpUKiHMjstnoVRLekZLUFUiKktkmMDLuZg6gaXhH89a4B
+[2025-02-10T11:20:53.909480119+00:00] Copy Wallet: C48dQJokWVvnLZroQix47AvKG5T1U88iGc115fXFEAzs  https://solscan.io/tx/JptLKM3nbN6JhQX6MgsoiJ4HBGyDfwPfSkD1sa29xyJHhUjPHwudLoJzyLFi6zagJ6G5Rz8RRuQe47usymLHrz9
+Rusult: Success
+
+[2025-02-10T11:25:37.908859373+00:00] ---------------------   Copy-trading-bot start!!!  ------------------
+
+[2025-02-10T11:26:01.672606392+00:00] 
+Target Wallet: 4qjhHtM44cWL6okXcC2PrqKQYkgKxMevSZQHsbt9aq2P  https://solscan.io/tx/2Ru75FSXUwjSrYxuzfQLpLFg3X8g2y6gVrK9CMGTLpCLkVVoA2Gb3YavdbEztJNmXWg4ywpsmdqCdi3k1FZwMqUh
+[2025-02-10T11:26:26.383004213+00:00] 
+Target Wallet: 4qjhHtM44cWL6okXcC2PrqKQYkgKxMevSZQHsbt9aq2P  https://solscan.io/tx/z8dy61gfvZkSBL7cv618e9qWDoownbTGPDRJyjoZJReupktuvu1A8q2U3bZpTsV2JvJMWge6ueFb2vuuUCKmbRq
+[2025-02-10T11:33:23.931544093+00:00] 
+Target Wallet: 4qjhHtM44cWL6okXcC2PrqKQYkgKxMevSZQHsbt9aq2P  https://solscan.io/tx/4eeRYuWgYkRHE7Qnd7UzVEqsWRCQCB3GX5nPDpugGTsJFoufnyLbPiCMqKQfGsCJ3ZnkNmtwGCKXxTj5p6pfFUGb
+[2025-02-10T11:49:07.156021643+00:00] 
+Target Wallet: 4qjhHtM44cWL6okXcC2PrqKQYkgKxMevSZQHsbt9aq2P  https://solscan.io/tx/3iavK8ouW5v2synSiQFUAFh9bCfUg9rv6bVuE9szN8aFWWBT6bqA782KctVdG4Lc8S3X1KPpqUa3U5oGUGTvZUZe
+[2025-02-10T11:49:09.466351566+00:00] Copy Wallet: C48dQJokWVvnLZroQix47AvKG5T1U88iGc115fXFEAzs  https://solscan.io/tx/376qcwHf3QDCKyJR2JpHd8tU21UHDcg8QVvQp9ZB8xMT4UqHMU2GHXM3DJTs1XbFBwYxC9Wd7hbcqfJxy4Mg3Xfp
+Rusult: Success
+
+[2025-02-10T12:03:48.371171189+00:00] ---------------------   Copy-trading-bot start!!!  ------------------
+
+[2025-02-10T12:04:27.115433462+00:00] 
+Target Wallet: 4qjhHtM44cWL6okXcC2PrqKQYkgKxMevSZQHsbt9aq2P  https://solscan.io/tx/4GCXH1FwqqRs2De1fTtbWP8zqsk4EDqZUB7pwhACLYECuya4Lez2qT5hDP98m6LggUcZWBZ7iDwrpnWTN6wkmyzh
+[2025-02-10T12:06:37.219041155+00:00] ---------------------   Copy-trading-bot start!!!  ------------------
+
+[2025-02-10T12:06:54.036514759+00:00] 
+Target Wallet: 4qjhHtM44cWL6okXcC2PrqKQYkgKxMevSZQHsbt9aq2P  https://solscan.io/tx/19haxnaSdNdGdgkmAqMMqXWivg75enXx3pJmCLWvJeo7RhdzFXQuXuqDVzS8itpPmmfjPgSVrThBhadMRxnJ2A1
+[2025-02-10T14:05:01.526139967+00:00] ---------------------   Copy-trading-bot start!!!  ------------------
+
+[2025-02-10T14:05:24.679156772+00:00] 
+Target Wallet: 4qjhHtM44cWL6okXcC2PrqKQYkgKxMevSZQHsbt9aq2P  https://solscan.io/tx/41tapP5ggBk173DaCCsX1ZJWdCP1XUKRmsFivXjao7mJ1p4fvoasdxEo1xyGTccTFtbVTZrtJXAGDjcw69M8ErfC
+[2025-02-10T16:33:02.831951575+00:00] ---------------------   Copy-trading-bot start!!!  ------------------
+
+[2025-02-10T16:39:07.443804766+00:00] 
+Target Wallet: 4qjhHtM44cWL6okXcC2PrqKQYkgKxMevSZQHsbt9aq2P  https://solscan.io/tx/S1CPyLL6fm2GeWoe6UPRAdgRmkP8gi4AYsmvV1HGYJfrE7jRbuoKQDiuduDYNRwvceFJTuh6gawg8ZacVHEnZKY
+[2025-02-10T16:41:56.280962822+00:00] ---------------------   Copy-trading-bot start!!!  ------------------
+
+[2025-02-10T16:42:11.676999833+00:00] 
+Target Wallet: 4qjhHtM44cWL6okXcC2PrqKQYkgKxMevSZQHsbt9aq2P  https://solscan.io/tx/5Ecg1FnT6ZqybXLqYdNQ4SXakCJeVanoVZPVstAPsDTbzXQTHkqftXNLnyL3uT44AFY9whavabHPgrY1PbQGB93J
+[2025-02-10T16:49:00.902419734+00:00] 
+Target Wallet: 4qjhHtM44cWL6okXcC2PrqKQYkgKxMevSZQHsbt9aq2P  https://solscan.io/tx/28cXRKP9RxfsMFZn4bwJZxqQFtSGcFBcv4KZKzLzMECkrdso8uE84Ej5ZBsw72hYAxBMUXB3BGUFB4V19VStKcit
+[2025-02-10T17:01:01.832702015+00:00] ---------------------   Copy-trading-bot start!!!  ------------------
+
+[2025-02-10T17:01:59.273338940+00:00] 
+Target Wallet: 4qjhHtM44cWL6okXcC2PrqKQYkgKxMevSZQHsbt9aq2P  https://solscan.io/tx/3bKshVLd1Y9dt2duqx4YhZ61nFo3PKmTLJGPd57UVo7J439ggd51kPTC6wvYehmjyANLSFLDhyQ5aUqVFDhDPUmJ
+[2025-02-10T17:04:48.820512135+00:00] ---------------------   Copy-trading-bot start!!!  ------------------
+
+[2025-02-10T17:05:00.650302267+00:00] 
+Target Wallet: 4qjhHtM44cWL6okXcC2PrqKQYkgKxMevSZQHsbt9aq2P  https://solscan.io/tx/4moMqcCLAyooxFLzQRz9YpxMh5FNBphELqAWf9Yt9w1fkePiiD5juYAXBJSL4bgTPqJU7jwwNXAefaPUVdjGZzDT
+[2025-02-10T17:06:11.717214202+00:00] ---------------------   Copy-trading-bot start!!!  ------------------
+
+[2025-02-10T17:06:43.592479148+00:00] ---------------------   Copy-trading-bot start!!!  ------------------
+
+[2025-02-10T17:08:17.593787956+00:00] 
+Target Wallet: 4qjhHtM44cWL6okXcC2PrqKQYkgKxMevSZQHsbt9aq2P  https://solscan.io/tx/2RrR2Xe1s9EkQDuvYLubYGqqqMyGynfXyFdhfaaWHM2qENP37z3r9J3WBkUeP8C4PpiyWgeoy8w7L7rpncq5H4WD
+[2025-02-10T17:08:21.026814003+00:00] Copy Wallet: C48dQJokWVvnLZroQix47AvKG5T1U88iGc115fXFEAzs  https://solscan.io/tx/NZ9UJQdN6VFnbnFtyjVYenZ8Anr9VU9PGVKxvwKj1p3NTNbviuGyxuEzqkaGwy5bRrnqpciN9nzjUSbmfWcojr2
+Rusult: Success
+
+[2025-02-10T17:30:25.961999145+00:00] ---------------------   Copy-trading-bot start!!!  ------------------
+
+[2025-02-10T17:36:02.813231502+00:00] ---------------------   Copy-trading-bot start!!!  ------------------
+
+[2025-02-10T17:37:46.252968615+00:00] 
+Target Wallet: 4qjhHtM44cWL6okXcC2PrqKQYkgKxMevSZQHsbt9aq2P  https://solscan.io/tx/2pKLVHvZJTewJPhkbx1PKFCEGqUKb2bK9WRaxP6McrZ1CVogbEdGKoEWjCZEsQFJcBzq4dEJdyZtm8fxrgmWbvtg
+[2025-02-10T17:37:49.886252528+00:00] Copy Wallet: C48dQJokWVvnLZroQix47AvKG5T1U88iGc115fXFEAzs  https://solscan.io/tx/3LSeAgvML3okoj2Cf1DAQ65FP4EtMPSDjqVJmB7vxQU7mnaRvF5H5t5pCF8JeDSmfYqA8vNM5dCZze8oBL4btpMe
+Rusult: Success
+
+[2025-02-10T17:45:39.790817717+00:00] ---------------------   Copy-trading-bot start!!!  ------------------
+
+[2025-02-10T17:46:18.165343103+00:00] 
+Target Wallet: 4qjhHtM44cWL6okXcC2PrqKQYkgKxMevSZQHsbt9aq2P  https://solscan.io/tx/4P4oi2DAPxKTjC22d2cQwkqUqBDSz7tEq26dMrAEW3yQgpDHDmNLrBF5LAV9DXFJjpNBJK7RMvtgb3Poa3QTPBYd
+[2025-02-10T17:54:17.990832320+00:00] ---------------------   Copy-trading-bot start!!!  ------------------
+
+[2025-02-10T17:54:25.397959999+00:00] 
+Target Wallet: 4qjhHtM44cWL6okXcC2PrqKQYkgKxMevSZQHsbt9aq2P  https://solscan.io/tx/43rG3pAmaxNRELnjVr98XpqAoBV8vmTszUChH28pQRNBJvaz97RCavyhw3f7GSCMswYQbgrBmXfhUmzoR7N2Zcnw
+[2025-02-10T18:05:20.200337580+00:00] ---------------------   Copy-trading-bot start!!!  ------------------
+
+[2025-02-10T18:09:14.504643788+00:00] 
+Target Wallet: 4qjhHtM44cWL6okXcC2PrqKQYkgKxMevSZQHsbt9aq2P  https://solscan.io/tx/2rxTFeDaWPbC5tMCqrbkX75haazwk8mLkdAziwyp1r4ZFT6rchLuNCCwKNUU4hFCzTenzifGcLxuVQwvrHCV67Ks
+[2025-02-10T18:09:41.699927349+00:00] 
+Target Wallet: 4qjhHtM44cWL6okXcC2PrqKQYkgKxMevSZQHsbt9aq2P  https://solscan.io/tx/5a2g79gToCVbLMBu6hjvMK7xCKn5MRfLApdacY5P2nDKPsNkpZrcU7BafrEXxkeLwh53T5hBQqnQg9WqRDZ6MbXC
+[2025-02-10T18:10:05.044897296+00:00] 
+Target Wallet: 4qjhHtM44cWL6okXcC2PrqKQYkgKxMevSZQHsbt9aq2P  https://solscan.io/tx/238ZELmSdRmniKUjAZFBGF73UxpheDCbfsNmoDa1rhhAoLwAhdCu45vEzFVk5qD4jFqJrhLZDEkcKcazFPcFnSw7
+[2025-02-10T18:10:08.369299305+00:00] Copy Wallet: C48dQJokWVvnLZroQix47AvKG5T1U88iGc115fXFEAzs  https://solscan.io/tx/4SjjV19aS1t3rgkSwsWs558p98z2XG2hdVBhmnjFrvkEaNafMAGEGNdTehBwsmWok4noM7Fmx9KtHj6jUPBj631T
+Rusult: Success
+
+[2025-02-10T18:21:51.650560741+00:00] ---------------------   Copy-trading-bot start!!!  ------------------
+
+[2025-02-10T18:23:37.516743751+00:00] 
+Target Wallet: 4qjhHtM44cWL6okXcC2PrqKQYkgKxMevSZQHsbt9aq2P  https://solscan.io/tx/LGCKFdKuGYGcfvkgeYzoDfTZpSEohYL9h7xuoGHX6RsX9GbEw24Qd6EnoNiMz3UMG1cgQp8N29pvT2NvXWDCipD
+[2025-02-10T18:23:40.640484909+00:00] Copy Wallet: C48dQJokWVvnLZroQix47AvKG5T1U88iGc115fXFEAzs  https://solscan.io/tx/2FQ2ytKwkyxepe8oUnutigMTuqX9L8o3s34vcwKj8rPxGHJfz4Pq63VsdgEDBNeYERurthudTJhrekctBwHxZWgn
+Rusult: Success
+
+[2025-02-10T18:25:06.215162931+00:00] 
+Target Wallet: 4qjhHtM44cWL6okXcC2PrqKQYkgKxMevSZQHsbt9aq2P  https://solscan.io/tx/2exubiqkpxuwqYMqLvehqo9Vh6Wf3HcLvgLN3x4bwsXyD37rE2Xm1zMe3JMP8VbErNt2CM82CYzWEHraWCnWu2Rf
+[2025-02-10T18:25:09.205538609+00:00] Copy Wallet: C48dQJokWVvnLZroQix47AvKG5T1U88iGc115fXFEAzs  https://solscan.io/tx/Fx9a8xAf8oZJz1zaoGVapqC7v9nzqL5bhkjVR5uDMFY11yBB9ZnEkd2SUAz9gn7gZad8xkNC8EV2hbospxPt7Mp
+Rusult: Success
+

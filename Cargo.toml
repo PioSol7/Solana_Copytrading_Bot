@@ -1,0 +1,41 @@
+[package]
+name = "temp"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dotenv = "0.15"
+chrono = "0.4.38"
+tokio = { version = "1.38.0", features = ["full"] }
+solana-sdk = 
+solana-client = 
+solana-account-decoder = 
+solana-transaction-status = 
+spl-token = { version = "4.0.0", features = ["no-entrypoint"] }
+spl-token-2022 = { version = "0.9.0", features = ["no-entrypoint"] }
+spl-associated-token-account = { version = "2.2.0", features = [
+    "no-entrypoint",
+] }
+spl-token-client = "=0.7.1"
+amm-cli = 
+common = 
+anyhow = "1.0.53"
+serde = "1.0.203"
+serde_json = "1.0.117"
+clap = { version = "4.5.7", features = ["derive"] }
+raydium_amm = 
+jito-json-rpc-client = 
+anchor-lang = 
+bytemuck = "1.21.0"
+indicatif = "0.17.8"
+rand = "0.8.5"
+tracing = "0.1.40"
+futures-util = "0.3.30"
+tokio-tungstenite = 
+tokio-stream = 
+borsh = { version = "1.5.3" }
+borsh-derive = "1.5.3"
+solana-transaction-status-client-types = "=2.1.0"
+url = "2.3.1"
+base64 = "0.13"
+bincode = "1.3.3"

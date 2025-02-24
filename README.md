@@ -10,6 +10,11 @@ If you have any question or something, feel free to reach out me anytime via tel
 
 Telegram: [@Leo](https://t.me/shinnyleo0912) <br>
 
+### 🎯 Example
+- Source Transaction: https://solscan.io/tx/2nNc1DsGxGoYWdweZhKQqnngfEjJqDA4zxnHar2S9bsAYP2csbLRgMpUmy68xuG1RaUGV9xb9k7dGdXcjgcmtJUh
+- Copied Transaction: https://solscan.io/tx/n2qrk4Xg3gfBBci6CXGKFqcTC8695sgNyzvacPHVaNkiwjWecwvY5WdNKgtgJhoLJfug6QkXQuaZeB5hVazW6ev
+- Target Wallet: GXAtmWucJEQxuL8PtpP13atoFi78eM6c9Cuw9fK9W4na
+- Copy Wallet: HqbQwVM2fhdYJXqFhBE68zX6mLqCWqEqdgrtf2ePmjRz
 ### 🎯 **Key Features**
 
 - 🛰️ **Real-time WebSocket Streaming**:

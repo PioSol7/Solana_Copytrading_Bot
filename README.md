@@ -1,29 +1,22 @@
-# 🚀 **Copy trading Bot using Rust**
+# Solana Copy trading Bot using Rust
 
-Welcome to the ** Copy trading Bot **! This bot watches for target wallet (whale) on the Solana blockchain in real-time, copy trading like target trading. 🌟
+Welcome to the ** Copy trading Bot **! This bot watches for target wallet (whale) on the Solana blockchain in real-time, copy trading like target trading.
 
-# 💬 Contact Me
+## Features
 
-If you have any question or something, feel free to reach out me anytime via telegram, discord or twitter.
-<br>
-#### 🌹 You're always welcome 🌹
+- **Real-time WebSocket Streaming**:
+  Connects to Solana's blockchain through Helius geyser RPC WebSocket and listens for new transactions, specifically Tx that target wallet is signer
+- **Filter Transactions**:
+  Filters transactions as soon as possible and fast.
+  Maybe it takes about 0.3ms totally
+- **Make Copy transaction**:
+  Using pumpfun program id and raydium module you can make copy trasaction.
 
-Telegram: [@Leo](https://t.me/shinnyleo0912) <br>
-
-### 🎯 Example
+## Example
 - Source Transaction: https://solscan.io/tx/2nNc1DsGxGoYWdweZhKQqnngfEjJqDA4zxnHar2S9bsAYP2csbLRgMpUmy68xuG1RaUGV9xb9k7dGdXcjgcmtJUh
 - Copied Transaction: https://solscan.io/tx/n2qrk4Xg3gfBBci6CXGKFqcTC8695sgNyzvacPHVaNkiwjWecwvY5WdNKgtgJhoLJfug6QkXQuaZeB5hVazW6ev
 - Target Wallet: GXAtmWucJEQxuL8PtpP13atoFi78eM6c9Cuw9fK9W4na
 - Copy Wallet: HqbQwVM2fhdYJXqFhBE68zX6mLqCWqEqdgrtf2ePmjRz
-### 🎯 **Key Features**
-
-- 🛰️ **Real-time WebSocket Streaming**:
-  Connects to Solana's blockchain through Helius geyser RPC WebSocket and listens for new transactions, specifically Tx that target wallet is singer
-- 🔍 **Filter Transactions**:
-  Filters transactions as soon as possible and fast.
-  maybe it takes about 0.3ms totally
-- 📊 ** Make Copy transaction **:
-  Using pumpfun program id and raydium module you can make copy trasaction.
 
 ---
 
@@ -36,12 +29,12 @@ Follow these steps to get your **Copy trading Bot** up and running!
 - Cargo version 1.84.0 installed on your system
 - A Solana wallet with access to the Helius Geyser RPC API
 
-### Installation
+## Usage
 
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/solagent99/Copy-Trading-Bot-Rust
+   git clone https://github.com/PioSol7/Copy-Trading-Bot-Rust
    ```
 
 2. **Install Dependencies**:
@@ -72,3 +65,11 @@ Follow these steps to get your **Copy trading Bot** up and running!
    ```
 
 ---
+
+## Author
+
+Discord: Takhi77 in discord
+
+Telegram: [@Takhi777](https://t.me/@Takhi777)
+
+You can always feel free to find me here for my help on other projects.
